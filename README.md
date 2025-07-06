@@ -1,4 +1,4 @@
-# Exce_Dashboard-Sales_Profit-
+# Excel_Dashboard-Sales
  Interactive Excel dashboard designed to analyze and visualize sales performance, profit margins, and loss trends.
 
 
